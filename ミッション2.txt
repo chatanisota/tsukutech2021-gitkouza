@@ -1,0 +1,28 @@
+制限時間：7分
+
+お題：指定した人の短歌の下の句(7、7)を考えてください
+
+上の句    | 下の句（今回）
+----------|---------
+arai      | chatani
+chatani   | hashimoto
+hashimoto | inoue
+inoue     | mukai
+mukai     | minakuchi
+minakuchi | nakata
+nakata    | ogawa
+ogawa     | yoneda
+yoneda    | arai
+
+例）
+上の句    | 下の句（今回）
+----------|---------
+A         | B
+
+mission1_A.txt（最終編集A）
+あああああ　ああああーああ　あああああ
+
+↑これをBさんが続きを考えて追加する
+
+mission1_A.txt（最終編集B）
+あああああ　ああああーああ　あああああ　いいいいいーい　いいいいいいい
